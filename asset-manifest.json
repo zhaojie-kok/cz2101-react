@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zhaojie-kok.github.io/static/css/main.a3abe2d0.chunk.css",
+    "main.js": "/zhaojie-kok.github.io/static/js/main.14c80ef0.chunk.js",
+    "main.js.map": "/zhaojie-kok.github.io/static/js/main.14c80ef0.chunk.js.map",
+    "runtime-main.js": "/zhaojie-kok.github.io/static/js/runtime-main.2538791c.js",
+    "runtime-main.js.map": "/zhaojie-kok.github.io/static/js/runtime-main.2538791c.js.map",
+    "static/js/2.18405459.chunk.js": "/zhaojie-kok.github.io/static/js/2.18405459.chunk.js",
+    "static/js/2.18405459.chunk.js.map": "/zhaojie-kok.github.io/static/js/2.18405459.chunk.js.map",
+    "index.html": "/zhaojie-kok.github.io/index.html",
+    "static/css/main.a3abe2d0.chunk.css.map": "/zhaojie-kok.github.io/static/css/main.a3abe2d0.chunk.css.map",
+    "static/js/2.18405459.chunk.js.LICENSE.txt": "/zhaojie-kok.github.io/static/js/2.18405459.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2538791c.js",
+    "static/js/2.18405459.chunk.js",
+    "static/css/main.a3abe2d0.chunk.css",
+    "static/js/main.14c80ef0.chunk.js"
+  ]
+}
